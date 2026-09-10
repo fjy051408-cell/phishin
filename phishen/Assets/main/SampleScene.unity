@@ -585,7 +585,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.41133413, g: 0.4953436, b: 0.6273585, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -756,7 +756,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8da69bf001232504d91e2e96cb7f5864, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7ef52aaa749753d4798394ee55a05466, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -966,7 +966,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1085678ffeebc804fa7512947ac1250b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7cddc917af181d44a83498b45bd1b8e7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1099,7 +1099,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d44c9227bdf2fc9439170070fde0d058, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f4af900b90713e14a8f63078769768d5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1232,7 +1232,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9a2bfe93813a07849962b8b5f4c9b872, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 222b64e070dde4d469f8d756ac148193, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1633,7 +1633,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e063b6fb9138f3948bdc476c3612715e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d6d42d86791d41d4387bef800a6c6ce0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
